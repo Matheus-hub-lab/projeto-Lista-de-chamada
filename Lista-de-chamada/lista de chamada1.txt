@@ -1,0 +1,36 @@
+<html>
+<head>
+<title>Lista - Exerc.3</title>
+<link rel="stilysheet" type="text/css" a href= "arquivo.css"/>
+</head>
+<body>
+<h1><font face=verdana font size=30 color="darkblue"><b> Lista de chamadas</b></font></h1>
+<table border= 0 width=55%/>
+<tr font face="Courier New" bgcolor="gray">
+<td><b>Aluno</b></td>
+<td><b>Ra</b></td>
+<td><b>Média</b></td>
+</font></tr>
+<tr>
+<td> <tt>Pupilo da Silva Santos</tt></td>
+<td><tt>0203065</tt></td>
+<td><tt>7.5</tt></td>
+</tr>
+<tr font face="Courier New" bgcolor="lightgray"></font>
+<td font face="Courier New"> Maria Pupila</font></td>
+<td font face="Courier New">0203065</font></td>
+<td font face="Courier New">8.8</font></td>
+</tr>
+<tr font face="Courier New"></font>
+<td font face="Courier New">João Pupilo<font></td>
+<td font face="Courier New">2460911</font></td>
+<td font face="Courier New">6.9</font></td>
+</font></tr>
+<tr font face="Courier New" bgcolor= "lightgray"></font>
+<td font face="Courier New">Ana Pupilo Lira </font></td>
+<td font face="Courier New">3334045 </font></td>
+<td font face="Courier New">7.9</font></td>
+</tr>
+</table>
+</body>
+</html>

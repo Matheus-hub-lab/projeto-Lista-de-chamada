@@ -1,0 +1,36 @@
+h1 {
+	Font-Family: Verdana;
+	size: 30;
+	color: Darkblue;
+	Font-style: bold;
+	
+}
+h2 {
+	Font-Family: Verdana;
+	size: 25px;
+	color: Blue;
+    Font-style: bold;
+	Font-style: italic;
+	
+}
+h3 {
+	Font-Family: Verdana;
+	size: 20px;
+	color: Lightblue;
+	Font-weight: bold;
+	
+	
+}
+p {
+	Font-Family: Verdana;
+	size: 12px;
+	color:preto;
+	
+}
+
+ body {
+    background-image: url("www_logo.png");
+    background-repeat: no-repeat;
+	background-position: 1px 92px;
+	}
+	
